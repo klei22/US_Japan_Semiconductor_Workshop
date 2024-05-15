@@ -27,7 +27,7 @@ Participants are encouraged to apply with an AI use case they'd like to prototyp
 A dedicated Discord channel will be available for questions and engagement.
 
 ## Prizes
-Prizes will include swag, attendances to special events and more.
+Prizes will include swag, attendances to special events and much more.
 
 ### Datasets / Resources
 The following datasets and other sources will be available:
