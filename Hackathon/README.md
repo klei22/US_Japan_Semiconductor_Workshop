@@ -16,7 +16,7 @@ The US_JAPAN ML / AI Hackathon is a collaborative open science learning experien
 
 ## Application
 ### Information for Applicants
-The hackathon invites participants to explore the intersection of AI and daily life through demonstration tutorials and hands-on “hacking” projects. We recommend some familiarity or experience with:
+The hackathon invites participants to explore the intersection of AI and daily life through demonstration tutorials and hands on projects. We recommend some familiarity or experience with:
 - AI technology and tools
 - Programming skills such as using Python, etc
 - Google Colabs
@@ -25,6 +25,9 @@ Participants are encouraged to apply with an AI use case they'd like to prototyp
 
 ## What to Expect
 A dedicated Discord channel will be available for questions and engagement.
+
+## Prizes
+Prizes will include swag, attendances to special events and more.
 
 ### Datasets / Resources
 The following datasets and other sources will be available:
