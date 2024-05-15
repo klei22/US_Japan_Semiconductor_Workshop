@@ -1,6 +1,6 @@
 # US_JAPAN ML / AI Hackathon: A Kyushu University and University of Michigan Event
 
-![image](https://github.com/klei22/US_Japan_Semiconductor_Workshop/assets/16511995/d2c8ef24-91a8-491e-92f4-532c6a2fe6d5)
+<img src="https://github.com/klei22/US_Japan_Semiconductor_Workshop/assets/16511995/d2c8ef24-91a8-491e-92f4-532c6a2fe6d5" width="50%" height="auto">
 
 ## Welcome
 Welcome to the AI Hackathon: Co-hosted by the University of Kyushu and the University of Michigan. This event is designed to strengthen communities by exploring innovative and practical applications of Open Source Tools and AI.
